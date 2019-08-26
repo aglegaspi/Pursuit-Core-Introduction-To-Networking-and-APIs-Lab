@@ -120,7 +120,7 @@ json: {
 ```
 1. The 5 year history of Apple stock prices (IEX API)
 ```
-
+uri: https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=AAPL&apikey=KVRY420MG52DYQK9
 ```
 1. All the Swift language repos on Github with Pursuit in their name
 ```
@@ -149,5 +149,5 @@ uri: https://api.got.show/api/book/characters/Petyr%20Baelish
 ```
 1. All the movies Leonardo Dicaprio has acted in
 ```
-
+uri:
 ```
